@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"libelle_categorie"
+			],
+			[
+				"redire",
+				"redirect"
+			],
+			[
+				"is_i",
+				"is_int"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"crea",
+				"createThumbnails"
+			],
+			[
+				"upl",
+				"uploadImage"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"sli",
+				"Slideshows"
+			],
+			[
+				"sl",
+				"slideshows"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"file_",
+				"file_name"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"id",
+				"id_categorie"
+			],
+			[
+				"ca",
+				"categorie"
+			],
+			[
+				"admin",
+				"adminManager"
+			],
+			[
+				"for",
+				"form_validation"
+			],
+			[
+				"do",
+				"donnees"
+			],
+			[
+				"fora",
+				"foreach	foreach …"
+			],
+			[
+				"lise",
+				"liste"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"form",
+				"form_validation"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"p",
+				"page"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"rep",
+				"reponse"
+			],
+			[
+				"ce",
+				"cel_paiemant"
+			],
+			[
+				"code_",
+				"code_transaction"
+			],
+			[
+				"monta",
+				"montant"
+			],
+			[
+				"recu",
+				"recupMontant"
+			],
+			[
+				"date",
+				"date_commande"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/views/pages/services.php",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/pages/actualite.php",
+			"settings":
+			{
+				"buffer_size": 996,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/pages.php",
+			"settings":
+			{
+				"buffer_size": 5979,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/pages/presentation.php",
+			"settings":
+			{
+				"buffer_size": 1164,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/pages/politique.php",
+			"settings":
+			{
+				"buffer_size": 777,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/pages/contact.php",
+			"settings":
+			{
+				"buffer_size": 2353,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/pages/accueil.php",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/templates/header.php",
+			"settings":
+			{
+				"buffer_size": 8318,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/parts/categorie-produits.php",
+			"settings":
+			{
+				"buffer_size": 2436,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/gedsarl/application/views/admin/parts/menu.php",
+		"/C/wamp/www/gedsarl/application/views/pages/presentation.php",
+		"/C/wamp/www/gedsarl/application/views/pages/politique.php",
+		"/C/wamp/www/gedsarl/application/controllers/pages.php",
+		"/C/wamp/www/gedsarl/application/views/pages/services.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/formation_form.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/article_form.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/article_tab.php",
+		"/C/wamp/www/gedsarl/application/views/templates/header.php",
+		"/C/wamp/www/gedsarl/application/views/parts/presentation.php",
+		"/C/wamp/www/gedsarl/application/views/pages/accueil.php",
+		"/C/wamp/www/gedsarl/application/views/parts/bottom.php",
+		"/C/wamp/www/gedsarl/application/views/pages/contact.php",
+		"/C/wamp/www/gedsarl/application/views/parts/contact.php",
+		"/C/wamp/www/gedsarl/application/config/routes.php",
+		"/C/wamp/www/gedsarl/application/config/database.php",
+		"/C/wamp/www/gedsarl/application/views/parts/slideshow.php",
+		"/C/wamp/www/gedsarl/assets/css/style.css",
+		"/C/wamp/www/gedsarl/assets/css/essoa.css",
+		"/C/wamp/www/gedsarl/assets/plugins/parallax-slider/css/parallax-slider.css",
+		"/C/wamp/www/gedsarl/application/views/parts/formation.php",
+		"/C/wamp/www/gedsarl/application/views/templates/footer.php",
+		"/C/wamp/www/gedsarl/application/views/parts/categorie-produits.php",
+		"/C/wamp/www/gedsarl/application/controllers/admin.php",
+		"/C/wamp/www/gedsarl/application/views/admin/pages/slideshow.php",
+		"/C/wamp/www/gedsarl/application/views/parts/showroom.php",
+		"/C/wamp/www/gedsarl/assets/js/app.js",
+		"/C/wamp/www/gedsarl/application/helpers/assets_helper.php",
+		"/C/wamp/www/gedsarl/application/models/crud_modele.php",
+		"/C/wamp/www/gedsarl/application/models/admin_model.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/slideshow_tab.php",
+		"/C/wamp/www/gedsarl/application/views/default/template.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/formation_tab.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/categorie_form.php",
+		"/C/wamp/www/gedsarl/application/views/pages/admin.php",
+		"/C/wamp/www/gedsarl/index.php",
+		"/C/Users/essoagenial/Downloads/summernote-master/summernote-master/src/js/summernote.js",
+		"/C/Users/essoagenial/Downloads/summernote-master/summernote-master/src/js/intro.js",
+		"/C/wamp/www/gedsarl/application/views/admin/pages/formation.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/slideshow_form.php",
+		"/C/wamp/www/gedsarl/application/views/admin/pages/article.php",
+		"/C/wamp/www/gedsarl/application/errors/error_404.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/categorie_tab.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/section_form.php",
+		"/C/wamp/www/gedsarl/application/views/admin/parts/section_tab.php",
+		"/C/wamp/www/gedsarl/application/config/autoload.php",
+		"/C/wamp/www/gedsarl/system/helpers/url_helper.php",
+		"/C/wamp/www/gedsarl/.htaccess",
+		"/C/wamp/www/gedsarl/application/config/config.php",
+		"/C/wamp/www/gedsarl/system/database/DB_driver.php",
+		"/C/wamp/www/gedsarl/application/.htaccess",
+		"/C/wamp/www/gedsarl/application/views/admin/pages/section.php",
+		"/C/wamp/www/gedsarl/application/views/welcome_message.php",
+		"/C/wamp/www/inscription/Models/Payement.php",
+		"/C/wamp/www/inscription/Models/accueil.php",
+		"/C/wamp/www/gedsarl/application/language/french/french_lang.php",
+		"/C/wamp/www/inscription/Controlleurs/payement.php",
+		"/C/wamp/www/inscription/webservice/client.php",
+		"/C/wamp/www/inscription/webservice/serveur - Copie.php",
+		"/C/wamp/www/inscription/webservice/serveur.php",
+		"/C/wamp/www/gedsarl/system/language/french/form_validation_lang.php",
+		"/C/wamp/www/gedsarl/system/language/english/form_validation_lang.php",
+		"/C/wamp/www/aquadima/modification_controller.php",
+		"/C/wamp/www/aquadima/modification_model.php",
+		"/C/wamp/www/gedsarl/system/.htaccess",
+		"/C/wamp/www/gedsarl/application/controllers/welcome.php",
+		"/C/wamp/www/gedsarl/application/views/admin/pages/dashboard.php",
+		"/C/wamp/www/gedsarl/application/views/admin/pages/categorie.php",
+		"/C/wamp/www/gedsarl/application/views/parts/login.php",
+		"/C/wamp/www/gedsarl/.htacces",
+		"/C/wamp/www/webservices/test.php",
+		"/C/wamp/www/webservices/essoa.php",
+		"/C/wamp/www/webservices/meteo.php",
+		"/C/wamp/www/inscription/index.php",
+		"/C/wamp/www/rh/models/ManageEmploye.php",
+		"/C/wamp/www/inscription/Vues/pages/accueil.php",
+		"/C/wamp/www/inscription/Vues/pages/parts/payement_form.php",
+		"/C/wamp/www/inscription/Vues/pages/recap.php",
+		"/C/wamp/www/inscription/Controlleurs/accueil.php",
+		"/C/wamp/www/sline/index.html",
+		"/C/wamp/www/sline/assets/css/sline.css",
+		"/C/wamp/www/inscription/assets/css/compte.css",
+		"/C/wamp/www/inscription/assets/js/inscription.js",
+		"/C/wamp/www/inscription/Models/DB/DBPrepareQuery.php",
+		"/C/wamp/www/inscription/Config/WebsiteParams.inc.php",
+		"/C/Users/essoagenial/Desktop/client.php",
+		"/C/wamp/www/rh/models/Employe.php",
+		"/C/wamp/www/fcl/index.php",
+		"/C/wamp/www/fcl/views/parts/menu.php",
+		"/C/wamp/www/fcl/views/parts/footer.php",
+		"/C/wamp/www/webservices/convertisseur.php",
+		"/C/Users/essoagenial/Desktop/DOSSIERS/PROJETS/PROJETS/AD/template/index.html",
+		"/C/Users/essoagenial/Desktop/DOSSIERS/PROJETS/PROJETS/AD/template/assets/js/ad.js",
+		"/C/wamp/www/egaz/pages/parts/conseils.php",
+		"/C/wamp/www/egaz/pages/parts/actu.php",
+		"/C/Users/essoagenial/Desktop/DOSSIERS/PROJETS/PROJETS/AD/template/assets/css/custom.css",
+		"/C/wamp/www/egaz/index.php",
+		"/C/Users/essoagenial/Desktop/DOSSIERS/PROJETS/PROJETS/AD/template/assets/js/slideshow.js",
+		"/C/wamp/www/kumasan/configuration.php",
+		"/C/wamp/www/inscription/Config/Config.inc.php",
+		"/C/wamp/www/inscription/Models/DB/DBQUERIES.php",
+		"/C/wamp/www/webservices/pays.php",
+		"/C/wamp/www/webservices/converter.class.php",
+		"/C/wamp/www/webservices/client.php",
+		"/C/wamp/www/kumasan/libraries/loader.php",
+		"/C/wamp/www/kumasan/index.php",
+		"/C/wamp/www/kumasan/LICENSES.php",
+		"/C/wamp/www/kumasan/LICENSE.php",
+		"/C/wamp/www/kumasan/CHANGELOG.php",
+		"/C/wamp/www/kumasan/index2.php",
+		"/C/wamp/www/kumasan/COPYRIGHT.php",
+		"/C/wamp/www/upload/submit.php",
+		"/C/wamp/www/upload/script.js",
+		"/C/Users/essoagenial/Downloads/New_Ajax_Image_Upload/New_Ajax_Image_Upload/index.php",
+		"/C/Users/essoagenial/Downloads/New_Ajax_Image_Upload/New_Ajax_Image_Upload/ajaximage.php",
+		"/C/wamp/www/rh/core/config.php",
+		"/C/Users/essoagenial/AppData/Local/Temp/7zOC389452E/index.php",
+		"/C/Users/essoagenial/Downloads/Joomla_1.5.15-Stable-Full_Package_french/index2.php",
+		"/C/Users/essoagenial/Downloads/Joomla_1.5.15-Stable-Full_Package_french/index.php",
+		"/C/Users/essoagenial/Downloads/jQueryFileUpload-master/jQueryFileUpload-master/submit.php",
+		"/C/Users/essoagenial/Downloads/jQueryFileUpload-master/jQueryFileUpload-master/script.js",
+		"/C/Users/essoagenial/Downloads/grafikart_sources_tutoriel_creer_un_mvc/controllers/tutoriels.php",
+		"/C/Users/essoagenial/Downloads/grafikart_sources_tutoriel_creer_un_mvc/core/controller.php",
+		"/C/Users/essoagenial/Downloads/grafikart_sources_tutoriel_creer_un_mvc/models/tutoriel.php",
+		"/C/Users/essoagenial/Downloads/grafikart_sources_tutoriel_creer_un_mvc/core/model.php",
+		"/C/wamp/www/conference/Controller/inscription.php",
+		"/C/wamp/www/conference/Controller/detailSeminaire.php",
+		"/C/wamp/www/conference/Vues/Parts/DetailSeminaire.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"accordion",
+			"acc",
+			"date_creation",
+			"Article",
+			"var_dump",
+			"theme",
+			"resume",
+			"titre",
+			"is_in",
+			"/",
+			"\n				// si uplodad termine insertion des donnees en base de donnees \n				$this->adminManager->save('article',$champs);\n				$this->article();",
+			"// si uplodad termine insertion des donnees en base de donnees \n				$this->adminManager->save('article',$champs);\n				$this->article();",
+			"\n		",
+			"index.php/admin",
+			"redire",
+			"asset",
+			"assets_helper",
+			"libr",
+			"library",
+			"\n	    ",
+			"join",
+			"encryption",
+			"encryption ",
+			"		\n",
+			"deny",
+			"route",
+			"$nom_categorie=$data->nom;",
+			"\n//",
+			"now",
+			"select",
+			"clientMtn",
+			"col-sm-12 col-md-12",
+			"col-sm-5",
+			"col-sm-6 col-md-6",
+			"col-sm-5 col-md-6",
+			"heading",
+			"actua",
+			"temoigna",
+			"@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);",
+			"jean",
+			"actualité",
+			"Témignage",
+			"Ils ont écrit pour nous",
+			"pense",
+			"pensee",
+			"\">\n",
+			"		<",
+			"pasterus",
+			"section",
+			"			    	",
+			"2000x400",
+			"			 \n",
+			"				      \n",
+			"<button type=\"submit\" class=\"btn btn-default\">Submit</button>",
+			"			      \n",
+			"submitForm",
+			"prepareUpload",
+			"ajax",
+			"produkt",
+			"\n				//alert(hauteur);",
+			".menu-block",
+			"li:before.menu-block",
+			"li:before",
+			".gf-menu li:before",
+			"rt-logo",
+			"query",
+			"JDatabaseQueryLimitable",
+			"getLatestBlogs",
+			"prev",
+			"start",
+			"end",
+			"start",
+			"next",
+			"end",
+			"Start",
+			"plublish",
+			"68b5ff",
+			"heart",
+			"getWeatherDataAsyncTask",
+			"Query"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"admin",
+			"col-xs-12 col-sm-12 col-md-12",
+			"col-sm-6",
+			"col-xs-6 col-sm-6 col-md-6",
+			"col-xs-6 col-sm-5 col-md-6",
+			"pasteurs",
+			"2000x500"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/pages/services.php",
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/pages/actualite.php",
+					"settings":
+					{
+						"buffer_size": 996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/controllers/pages.php",
+					"settings":
+					{
+						"buffer_size": 5979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4935,
+								4935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1848.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/pages/presentation.php",
+					"settings":
+					{
+						"buffer_size": 1164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/pages/politique.php",
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/views/pages/contact.php",
+					"settings":
+					{
+						"buffer_size": 2353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1824,
+								1824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/views/pages/accueil.php",
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/views/templates/header.php",
+					"settings":
+					{
+						"buffer_size": 8318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3380,
+								3380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 840.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/views/parts/categorie-produits.php",
+					"settings":
+					{
+						"buffer_size": 2436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}
